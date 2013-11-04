@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2012 The Android Open Source Project
-     Copyright (C) 2012 The CyanogenMod Project (DvTonder)
+<!-- Copyright (C) 2007 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -14,18 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
-<!-- These resources are around just to allow their values to be customized
-     for different hardware and product builds. -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-
-    <dimen name="widget_big_font_size">76dp</dimen>
-    <dimen name="widget_medium_font_size">48dp</dimen>
-    <dimen name="label_font_size">14sp</dimen>
-
-    <dimen name="min_digital_widget_height">120dip</dimen>
-
-    <dimen name="min_digital_calendar_height">200dip</dimen>
-    <dimen name="min_analog_calendar_height">200dip</dimen>
-
+    <string name="abbrev_wday_month_day_no_year">MMMMنىڭ d-كۈنى EEE</string>
+    <string name="full_wday_month_day_no_year">MMMMنىڭ d-كۈنى EEEE</string>
 </resources>
