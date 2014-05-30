@@ -15,7 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="unknown">Onbekend</string>
   <string name="cancel">Annuleren</string>
   <string name="loading_indicator">Widget laden\u2026</string>
@@ -168,7 +168,7 @@
   <string name="holo_orange_light">Lichtoranje</string>
   <string name="holo_orange_dark">Donkeroranje</string>
   <string name="holo_blue_bright">Helderblauw</string>
-  <string name="weather_icon_set_title">Pictogrammenpakket</string>
+  <string name="weather_icon_set_title">Pictogrampakket</string>
   <string name="weather_icons_standard">Gekleurd</string>
   <string name="weather_icons_monochrome">Zwart-wit</string>
   <string name="icon_set_selection_get_more">Meer\u2026</string>
